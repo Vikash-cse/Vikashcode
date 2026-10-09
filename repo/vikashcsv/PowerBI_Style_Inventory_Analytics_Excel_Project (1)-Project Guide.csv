@@ -1,0 +1,6 @@
+Project,Multi-Vendor Inventory & Business Analytics Dashboard
+Objective,Digitize manual inventory reporting and create management-ready insights.
+Tools,"Excel, Pivot-style summaries, charts; dataset can be imported into Power BI."
+Analysis,"Vendor performance, inventory movement, revenue, cost, profit/loss and monthly trends."
+Power BI Extension,"Create KPI cards, slicers, vendor/category visuals and DAX measures after importing the Data sheet."
+Resume Point,"Built an interactive inventory analytics dashboard to monitor multi-vendor stock, revenue, cost and profitability using transactional data."
